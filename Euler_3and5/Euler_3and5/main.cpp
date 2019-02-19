@@ -26,11 +26,6 @@ int main(int argc, const char * argv[]) {
             answer = answer + input;
         }
     }
-    
-    
-    
-    
-    
     cout << answer << endl;
     return 0;
 }
